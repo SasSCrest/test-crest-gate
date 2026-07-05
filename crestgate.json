@@ -1,0 +1,5 @@
+{
+  "org": "acme",
+  "registry": "https://secure-npm-registry-gateway-dev.saascrest.workers.dev/npm/acme/",
+  "packageManager": "pnpm"
+}
